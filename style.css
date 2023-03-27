@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Arvo', sans-serif;
+}
+.form-control:focus{
+    box-shadow: none;
+}
+.offer-image{
+   height: 15em;
+   top: 2em;
+   left: 23em;
+   /* z-index: 1; */
+}
+.item img{
+    height: 300px;
+}
+.products-wrapper li{
+    padding: 20px;
+}
+.footer-wrapper{
+    background-color: #F9F6EE;
+}
