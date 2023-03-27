@@ -24,3 +24,10 @@ body{
 .footer-wrapper{
     background-color: #F9F6EE;
 }
+.categories li {
+    cursor: pointer;
+}
+.products-wrapper ul li{
+    cursor: pointer;
+}
+
